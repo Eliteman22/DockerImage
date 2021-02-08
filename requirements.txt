@@ -61,7 +61,7 @@ gym==0.9.1
 gym-pull==0.1.7
 html5lib==0.9999999
 htsprophet==0.1.0
-httplib2==0.10.3
+httplib2==0.19.0
 hupper==1.0
 IbPy2==0.8.0
 idna==2.5
