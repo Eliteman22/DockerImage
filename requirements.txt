@@ -216,7 +216,7 @@ requests-cache==0.4.13
 requests-file==1.4.2
 requests-ftp==0.3.1
 requests-oauthlib==0.8.0
-rsa==3.4.2
+rsa==4.1
 s2sphere==0.2.4
 scandir==1.7
 scikit-learn==0.18.1
