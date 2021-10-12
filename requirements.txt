@@ -111,7 +111,7 @@ oauth2client==4.1.2
 oauthlib==2.0.6
 olefile==0.44
 opencv==0.2.0
-opencv-python==3.2.0.8
+opencv-python==3.4.7.28
 openpyxl==2.4.8
 ortools==6.6.4659
 packaging==16.8
