@@ -85,7 +85,7 @@ LatLon==1.0.1
 leveldb==0.193
 livereload==2.4.1
 Logbook==1.0.0
-lxml==3.5.0
+lxml==4.6.5
 macholib==1.5.1
 mailer==0.8.1
 Mako==1.0.6
