@@ -59,7 +59,7 @@ gpsoauth==0.3.0
 gspread==0.6.2
 gym==0.9.1
 gym-pull==0.1.7
-html5lib==0.9999999
+html5lib==0.99999999
 htsprophet==0.1.0
 httplib2==0.10.3
 hupper==1.0
