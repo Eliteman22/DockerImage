@@ -129,7 +129,7 @@ peewee==2.8.1
 pexpect==4.6.0
 pgoapi==1.1.6
 pickleshare==0.7.4
-Pillow==4.1.1
+Pillow==9.3.0
 pixiedust==1.1.10
 pixiedust-node==0.2.5
 plaster==1.0
